@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/.github.io/react_upload/static/css/main.728a7016.css",
+    "main.js": "/.github.io/react_upload/static/js/main.e5d583ba.js",
+    "index.html": "/.github.io/react_upload/index.html",
+    "main.728a7016.css.map": "/.github.io/react_upload/static/css/main.728a7016.css.map",
+    "main.e5d583ba.js.map": "/.github.io/react_upload/static/js/main.e5d583ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.728a7016.css",
+    "static/js/main.e5d583ba.js"
+  ]
+}
