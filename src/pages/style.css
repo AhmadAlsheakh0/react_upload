@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    height: 50px;
+    background-color: rgb(245, 178, 8);
+    align-items: center;
+}
+button {
+    background-color: rgb(255, 255, 255);
+    margin-left: 20px;
+    height: 40px;
+    width: 90px;
+    font-size: 15px;
+}
+#colorbtn {
+    width: 200px;
+}
