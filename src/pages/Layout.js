@@ -6,9 +6,9 @@ const Layout = () => {
     <>
       <body>
           <div className="navbar">
-              <button><Link to="/home">Home</Link></button>
-              <button><Link to="/blogs">Blogs</Link></button>
-              <button><Link to="/contact">Contact</Link></button>
+              <button><Link to="/first">first Page</Link></button>
+              <button><Link to="/second">second page</Link></button>
+              <button><Link to="/third">third page</Link></button>
           </div>
       </body>
       <Outlet />

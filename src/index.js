@@ -11,9 +11,9 @@ export default function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Layout />}>
-          <Route path="home" element={<BackgroundColor />} />
-          <Route path="blogs" element={<SecondPage />} />
-          <Route path="contact" element={<ThirdPage />} />
+          <Route path="first" element={<BackgroundColor />} />
+          <Route path="second" element={<SecondPage />} />
+          <Route path="third" element={<ThirdPage />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>
